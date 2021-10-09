@@ -26,7 +26,7 @@ This synthetic dataset is a photo-realistic vision laboratory that validates the
 ![image](https://github.com/PC-Lab-Virtual-Reality/A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios/blob/main/Figure/fig1.jpg)
 
 ## Examples of the real and synthetic dataset
-![image](A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios/blob/main/Figure/fig2.jpg)
+![image](https://github.com/PC-Lab-Virtual-Reality/A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios/blob/main/Figure/fig2.jpg)
 
 
 ## Download
