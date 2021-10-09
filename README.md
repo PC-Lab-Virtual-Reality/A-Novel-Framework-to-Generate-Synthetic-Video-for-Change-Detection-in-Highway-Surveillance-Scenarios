@@ -1,0 +1,1 @@
+# A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios
