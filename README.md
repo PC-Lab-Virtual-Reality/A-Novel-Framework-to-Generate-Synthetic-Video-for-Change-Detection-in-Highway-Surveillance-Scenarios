@@ -2,19 +2,6 @@
 
 ## Abstract
 
-Change detection plays an important role in the domain of video surveillance for highway.
-The design of advanced change detection algorithms requires large-scale and diverse video
-dataset. However, collecting  and labeling real dataset is still time-consuming, labor-intensive,
-and highly subjective. To address this issue, we first propose realistic synthetic scenes to
-simulate real highway scenarios. Then, we design synthetic multi-challenge video datasets, 
-called “Synthetic-HS (highway scenarios)”, automatically labeled with accurate pixel-level 
-ground truth. The Synthetic-HS dataset contains eight imaging condition sequences for computer 
-vision research. We use publicly available Synthetic-HS in combination with the corresponding 
-real video sequence to conduct experiments. The experiment results suggest that: (1) It is 
-necessary to further explore the annotation criteria of change detection dataset. (2) The synthetic
-dataset enables us to provide precise quantitative evaluation of the drawbacks of change detection
-methods, and can also be used to promote the visual perception in highway video surveillance.
-
 ## Description
 Considering that change detection models have to deal with some challenges in highway surveillance
 scenarios, we generate various synthetic multi-challenge video sequences, 
