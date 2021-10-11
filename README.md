@@ -1,7 +1,5 @@
 # A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios
 
-## Abstract
-
 ## Description
 Considering that change detection models have to deal with some challenges in highway surveillance
 scenarios, we generate various synthetic multi-challenge video sequences, 
